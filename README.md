@@ -4,6 +4,9 @@ This is a simple cloud clipboard project that can be used to upload and share te
 
 ![](doc/1.png)
 
+
+https://mybinder.org/v2/gh/briandyy/vercel-clipboard/master
+
 ## Deploy on Vercel
 
 First, create a project on Vercel and link KV Database, Postgre Database, Blob Store and Edge Config Store with it. Then fork this repository and link it with Vercel project and it will works in a few seconds.
