@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/briandyy/vercel-clipboard/master)
+
 # Vercel Clipboard
 
 This is a simple cloud clipboard project that can be used to upload and share text messages and files between devices. The project is developed with Next.js 14 and deployed on Vercel. It's serverside relies on Vercel's KV Database, Postgre Database, Blob Store and Edge Config Store to persist data and configurations.
