@@ -5,7 +5,7 @@ export const POST = async () => {
   try {
     let allow = await get("allowRegister");
     if (allow !== true) {
-      allow = false;
+      allow = true;
     }
     return NextResponse.json({
       code: "200",
